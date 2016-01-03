@@ -1,59 +1,62 @@
 책에 나오는 연습문제 목록
 
-- [ ] Exercise 01 Saying Hello
-- [ ] Exercise 02 Counting the Number of Characters
-- [ ] Exercise 03 Printing Quotes
-- [ ] Exercise 04 Mad Lib
-- [ ] Exercise 05 Simple Math
-- [ ] Exercise 06 Retirement Calculator
-- [ ] Exercise 07 Area of a Rectangular Room
-- [ ] Exercise 08 Pizza Party
-- [ ] Exercise 09 Paint Calculator
-- [ ] Exercise 10 Self-Checkout
-- [ ] Exercise 11 Currency Conversion
-- [ ] Exercise 12 Computing Simple Interest
-- [ ] Exercise 13 Determining Compound Interest
-- [ ] Exercise 14 Tax Calculator
-- [ ] Exercise 15 Password Validation
-- [ ] Exercise 16 Legal Driving Age
-- [ ] Exercise 17 Blood Alcohol Calculator
-- [ ] Exercise 18 Temperature Converter
-- [ ] Exercise 19 BMI Calculator
-- [ ] Exercise 20 Multistate Sales Tax Calculator
-- [ ] Exercise 21 Numbers to Names
-- [ ] Exercise 22 Comparing Numbers
-- [ ] Exercise 23 Troubleshooting Car Issues
-- [ ] Exercise 24 Anagram Checker
-- [ ] Exercise 25 Password Strength Indicator
-- [ ] Exercise 26 Months to Pay Off a Credit Card
-- [ ] Exercise 27 Validating Inputs
-- [ ] Exercise 28 Adding Numbers
-- [ ] Exercise 29 Handling Bad Input
-- [ ] Exercise 30 Multiplication Table
-- [ ] Exercise 31 Karvonen Heart Rate
-- [ ] Exercise 32 Guess the Number Game
-- [ ] Exercise 33 Magic 8 Ball
-- [ ] Exercise 34 Employee List Removal
-- [ ] Exercise 35 Picking a Winner
-- [ ] Exercise 36 Computing Statistics
-- [ ] Exercise 37 Password Generator
-- [ ] Exercise 38 Filtering Values
-- [ ] Exercise 39 Sorting Records
-- [ ] Exercise 40 Filtering Records
-- [ ] Exercise 41 Name Sorter
-- [ ] Exercise 42 Parsing a Data File
-- [ ] Exercise 43 Website Generator
-- [ ] Exercise 44 Product Search
-- [ ] Exercise 45 Word Finder
-- [ ] Exercise 46 Word Frequency Finder
-- [ ] Exercise 47 Whos in Space
-- [ ] Exercise 48 Grabbing the Weather
-- [ ] Exercise 49 Flickr Photo Search
-- [ ] Exercise 50 Movie Recommendations
-- [ ] Exercise 51 Pushing Notes to Firebase
-- [ ] Exercise 52 Creating Your Own Time Service
-- [ ] Exercise 53 Todo List
-- [ ] Exercise 54 URL Shortener
-- [ ] Exercise 55 Text Sharing
-- [ ] Exercise 56 Tracking Inventory
-- [ ] Exercise 57 Trivia App
+- [x] #01 Exercise 01 Saying Hello
+- [ ] #02 Exercise 02 Counting the Number of Characters
+- [ ] #03 Exercise 03 Printing Quotes
+- [ ] #04 Exercise 04 Mad Lib
+- [ ] #05 Exercise 05 Simple Math
+- [ ] #06 Exercise 06 Retirement Calculator
+- [ ] #07 Exercise 07 Area of a Rectangular Room
+- [ ] #08 Exercise 08 Pizza Party
+- [ ] #09 Exercise 09 Paint Calculator
+- [ ] #10 Exercise 10 Self-Checkout
+- [ ] #11 Exercise 11 Currency Conversion
+- [ ] #12 Exercise 12 Computing Simple Interest
+- [ ] #13 Exercise 13 Determining Compound Interest
+- [ ] #14 Exercise 14 Tax Calculator
+- [ ] #15 Exercise 15 Password Validation
+- [ ] #16 Exercise 16 Legal Driving Age
+- [ ] #17 Exercise 17 Blood Alcohol Calculator
+- [ ] #18 Exercise 18 Temperature Converter
+- [ ] #19 Exercise 19 BMI Calculator
+- [ ] #20 Exercise 20 Multistate Sales Tax Calculator
+- [ ] #21 Exercise 21 Numbers to Names
+- [ ] #22 Exercise 22 Comparing Numbers
+- [ ] #23 Exercise 23 Troubleshooting Car Issues
+- [ ] #24 Exercise 24 Anagram Checker
+- [ ] #25 Exercise 25 Password Strength Indicator
+- [ ] #26 Exercise 26 Months to Pay Off a Credit Card
+- [ ] #27 Exercise 27 Validating Inputs
+- [ ] #28 Exercise 28 Adding Numbers
+- [ ] #29 Exercise 29 Handling Bad Input
+- [ ] #30 Exercise 30 Multiplication Table
+- [ ] #31 Exercise 31 Karvonen Heart Rate
+- [ ] #32 Exercise 32 Guess the Number Game
+- [ ] #33 Exercise 33 Magic 8 Ball
+- [ ] #34 Exercise 34 Employee List Removal
+- [ ] #35 Exercise 35 Picking a Winner
+- [ ] #36 Exercise 36 Computing Statistics
+- [ ] #37 Exercise 37 Password Generator
+- [ ] #38 Exercise 38 Filtering Values
+- [ ] #39 Exercise 39 Sorting Records
+- [ ] #40 Exercise 40 Filtering Records
+- [ ] #41 Exercise 41 Name Sorter
+- [ ] #42 Exercise 42 Parsing a Data File
+- [ ] #43 Exercise 43 Website Generator
+- [ ] #44 Exercise 44 Product Search
+- [ ] #45 Exercise 45 Word Finder
+- [ ] #46 Exercise 46 Word Frequency Finder
+- [ ] #47 Exercise 47 Whos in Space
+- [ ] #48 Exercise 48 Grabbing the Weather
+- [ ] #49 Exercise 49 Flickr Photo Search
+- [ ] #50 Exercise 50 Movie Recommendations
+- [ ] #51 Exercise 51 Pushing Notes to Firebase
+- [ ] #52 Exercise 52 Creating Your Own Time Service
+- [ ] #53 Exercise 53 Todo List
+- [ ] #54 Exercise 54 URL Shortener
+- [ ] #55 Exercise 55 Text Sharing
+- [ ] #56 Exercise 56 Tracking Inventory
+- [ ] #57 Exercise 57 Trivia App
+
+
+
