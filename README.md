@@ -1,62 +1,59 @@
 책에 나오는 연습문제 목록
 
-- [x] exercises-for-programmers#01 Exercise 01 Saying Hello exercises-for-programmers#01 #1
-- [ ] exercises-for-programmers#02 Exercise 02 Counting the Number of Characters
-- [ ] exercises-for-programmers#03 Exercise 03 Printing Quotes
-- [ ] exercises-for-programmers#04 Exercise 04 Mad Lib
-- [ ] exercises-for-programmers#05 Exercise 05 Simple Math
-- [ ] exercises-for-programmers#06 Exercise 06 Retirement Calculator
-- [ ] exercises-for-programmers#07 Exercise 07 Area of a Rectangular Room
-- [ ] exercises-for-programmers#08 Exercise 08 Pizza Party
-- [ ] exercises-for-programmers#09 Exercise 09 Paint Calculator
-- [ ] exercises-for-programmers#10 Exercise 10 Self-Checkout
-- [ ] exercises-for-programmers#11 Exercise 11 Currency Conversion
-- [ ] exercises-for-programmers#12 Exercise 12 Computing Simple Interest
-- [ ] exercises-for-programmers#13 Exercise 13 Determining Compound Interest
-- [ ] exercises-for-programmers#14 Exercise 14 Tax Calculator
-- [ ] exercises-for-programmers#15 Exercise 15 Password Validation
-- [ ] exercises-for-programmers#16 Exercise 16 Legal Driving Age
-- [ ] exercises-for-programmers#17 Exercise 17 Blood Alcohol Calculator
-- [ ] exercises-for-programmers#18 Exercise 18 Temperature Converter
-- [ ] exercises-for-programmers#19 Exercise 19 BMI Calculator
-- [ ] exercises-for-programmers#20 Exercise 20 Multistate Sales Tax Calculator
-- [ ] exercises-for-programmers#21 Exercise 21 Numbers to Names
-- [ ] exercises-for-programmers#22 Exercise 22 Comparing Numbers
-- [ ] exercises-for-programmers#23 Exercise 23 Troubleshooting Car Issues
-- [ ] exercises-for-programmers#24 Exercise 24 Anagram Checker
-- [ ] exercises-for-programmers#25 Exercise 25 Password Strength Indicator
-- [ ] exercises-for-programmers#26 Exercise 26 Months to Pay Off a Credit Card
-- [ ] exercises-for-programmers#27 Exercise 27 Validating Inputs
-- [ ] exercises-for-programmers#28 Exercise 28 Adding Numbers
-- [ ] exercises-for-programmers#29 Exercise 29 Handling Bad Input
-- [ ] exercises-for-programmers#30 Exercise 30 Multiplication Table
-- [ ] exercises-for-programmers#31 Exercise 31 Karvonen Heart Rate
-- [ ] exercises-for-programmers#32 Exercise 32 Guess the Number Game
-- [ ] exercises-for-programmers#33 Exercise 33 Magic 8 Ball
-- [ ] exercises-for-programmers#34 Exercise 34 Employee List Removal
-- [ ] exercises-for-programmers#35 Exercise 35 Picking a Winner
-- [ ] exercises-for-programmers#36 Exercise 36 Computing Statistics
-- [ ] exercises-for-programmers#37 Exercise 37 Password Generator
-- [ ] exercises-for-programmers#38 Exercise 38 Filtering Values
-- [ ] exercises-for-programmers#39 Exercise 39 Sorting Records
-- [ ] exercises-for-programmers#40 Exercise 40 Filtering Records
-- [ ] exercises-for-programmers#41 Exercise 41 Name Sorter
-- [ ] exercises-for-programmers#42 Exercise 42 Parsing a Data File
-- [ ] exercises-for-programmers#43 Exercise 43 Website Generator
-- [ ] exercises-for-programmers#44 Exercise 44 Product Search
-- [ ] exercises-for-programmers#45 Exercise 45 Word Finder
-- [ ] exercises-for-programmers#46 Exercise 46 Word Frequency Finder
-- [ ] exercises-for-programmers#47 Exercise 47 Whos in Space
-- [ ] exercises-for-programmers#48 Exercise 48 Grabbing the Weather
-- [ ] exercises-for-programmers#49 Exercise 49 Flickr Photo Search
-- [ ] exercises-for-programmers#50 Exercise 50 Movie Recommendations
-- [ ] exercises-for-programmers#51 Exercise 51 Pushing Notes to Firebase
-- [ ] exercises-for-programmers#52 Exercise 52 Creating Your Own Time Service
-- [ ] exercises-for-programmers#53 Exercise 53 Todo List
-- [ ] exercises-for-programmers#54 Exercise 54 URL Shortener
-- [ ] exercises-for-programmers#55 Exercise 55 Text Sharing
-- [ ] exercises-for-programmers#56 Exercise 56 Tracking Inventory
-- [ ] exercises-for-programmers#57 Exercise 57 Trivia App
-
-
-
+- [ ] Exercise 01 Saying Hello
+- [ ] Exercise 02 Counting the Number of Characters
+- [ ] Exercise 03 Printing Quotes
+- [ ] Exercise 04 Mad Lib
+- [ ] Exercise 05 Simple Math
+- [ ] Exercise 06 Retirement Calculator
+- [ ] Exercise 07 Area of a Rectangular Room
+- [ ] Exercise 08 Pizza Party
+- [ ] Exercise 09 Paint Calculator
+- [ ] Exercise 10 Self-Checkout
+- [ ] Exercise 11 Currency Conversion
+- [ ] Exercise 12 Computing Simple Interest
+- [ ] Exercise 13 Determining Compound Interest
+- [ ] Exercise 14 Tax Calculator
+- [ ] Exercise 15 Password Validation
+- [ ] Exercise 16 Legal Driving Age
+- [ ] Exercise 17 Blood Alcohol Calculator
+- [ ] Exercise 18 Temperature Converter
+- [ ] Exercise 19 BMI Calculator
+- [ ] Exercise 20 Multistate Sales Tax Calculator
+- [ ] Exercise 21 Numbers to Names
+- [ ] Exercise 22 Comparing Numbers
+- [ ] Exercise 23 Troubleshooting Car Issues
+- [ ] Exercise 24 Anagram Checker
+- [ ] Exercise 25 Password Strength Indicator
+- [ ] Exercise 26 Months to Pay Off a Credit Card
+- [ ] Exercise 27 Validating Inputs
+- [ ] Exercise 28 Adding Numbers
+- [ ] Exercise 29 Handling Bad Input
+- [ ] Exercise 30 Multiplication Table
+- [ ] Exercise 31 Karvonen Heart Rate
+- [ ] Exercise 32 Guess the Number Game
+- [ ] Exercise 33 Magic 8 Ball
+- [ ] Exercise 34 Employee List Removal
+- [ ] Exercise 35 Picking a Winner
+- [ ] Exercise 36 Computing Statistics
+- [ ] Exercise 37 Password Generator
+- [ ] Exercise 38 Filtering Values
+- [ ] Exercise 39 Sorting Records
+- [ ] Exercise 40 Filtering Records
+- [ ] Exercise 41 Name Sorter
+- [ ] Exercise 42 Parsing a Data File
+- [ ] Exercise 43 Website Generator
+- [ ] Exercise 44 Product Search
+- [ ] Exercise 45 Word Finder
+- [ ] Exercise 46 Word Frequency Finder
+- [ ] Exercise 47 Whos in Space
+- [ ] Exercise 48 Grabbing the Weather
+- [ ] Exercise 49 Flickr Photo Search
+- [ ] Exercise 50 Movie Recommendations
+- [ ] Exercise 51 Pushing Notes to Firebase
+- [ ] Exercise 52 Creating Your Own Time Service
+- [ ] Exercise 53 Todo List
+- [ ] Exercise 54 URL Shortener
+- [ ] Exercise 55 Text Sharing
+- [ ] Exercise 56 Tracking Inventory
+- [ ] Exercise 57 Trivia App
