@@ -1,6 +1,6 @@
 책에 나오는 연습문제 목록
 
-- [x] exercises-for-programmers#01 Exercise 01 Saying Hello
+- [x] exercises-for-programmers#01 Exercise 01 Saying Hello exercises-for-programmers#01 #1
 - [ ] exercises-for-programmers#02 Exercise 02 Counting the Number of Characters
 - [ ] exercises-for-programmers#03 Exercise 03 Printing Quotes
 - [ ] exercises-for-programmers#04 Exercise 04 Mad Lib
