@@ -1,7 +1,7 @@
 책에 나오는 연습문제 목록
 
 - [x] Exercise 01 Saying Hello
-- [ ] Exercise 02 Counting the Number of Characters
+- [x] Exercise 02 Counting the Number of Characters
 - [ ] Exercise 03 Printing Quotes
 - [ ] Exercise 04 Mad Lib
 - [ ] Exercise 05 Simple Math
