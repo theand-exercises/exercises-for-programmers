@@ -2,7 +2,7 @@
 
 - [x] Exercise 01 Saying Hello
 - [x] Exercise 02 Counting the Number of Characters
-- [ ] Exercise 03 Printing Quotes
+- [x] Exercise 03 Printing Quotes
 - [ ] Exercise 04 Mad Lib
 - [ ] Exercise 05 Simple Math
 - [ ] Exercise 06 Retirement Calculator
